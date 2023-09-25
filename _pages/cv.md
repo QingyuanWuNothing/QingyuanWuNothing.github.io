@@ -9,51 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* Reinforcement Learning, Safe Reinforcement Learning
+* Unsupervised Learning, Self-Supervised Learning
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Liverpool, Liverpool, England, Sep.  2023 - now
+* M.S. in Computer Science, Nanjing University of Aeronautics and Astronautics, Nanjing, China, Sep. 2019 - April 2022
+* B.S. in Mathematics, Nanjing University of Aeronautics and Astronautics, Nanjing, China, Sep. 2015 - June 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* April 2022 - Sep. 2023: Gaming AI Researcher
+  * Parametrix Technology, Shenzhen, China
+  * Duties included: Appling reinforcement learning in the most challenging gaming seconries, e.g. First-person shooter (FPS), Third-person shooter (TPS), Hero shooter (HS) games.
+  <!-- * Supervisor: Professor Git -->
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Skills
+======
+* Skill about Machine Learning
+  * Code Language: Python, C++
+  * Deep Learning Framework: Torch, Tensorflow
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
