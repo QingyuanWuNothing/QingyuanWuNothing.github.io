@@ -11,8 +11,8 @@ redirect_from:
 
 Research Interests
 ======
-* Reinforcement Learning, Safe Reinforcement Learning
-* Unsupervised Learning, Self-Supervised Learning
+* Reinforcement Learning(RL), Safe Reinforcement Learning(SRL)
+* Unsupervised Learning, Self-Supervised Learning(SSL)
 
 Education
 ======
@@ -24,7 +24,7 @@ Work experience
 ======
 * April 2022 - Sep. 2023: Gaming AI Researcher
   * Parametrix Technology, Shenzhen, China
-  * Duties included: Appling reinforcement learning in the most challenging gaming seconries, e.g. First-person shooter (FPS), Third-person shooter (TPS), Hero shooter (HS) games.
+  * Duties included: Appling and training RL-based Gaming AI in the most challenging gaming seconries, e.g. First-person shooter (FPS), Third-person shooter (TPS), Hero shooter (HS) games.
   <!-- * Supervisor: Professor Git -->
 
 Publications
