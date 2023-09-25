@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qingyuan Wu"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Qingyuan Wu"
 description              : &description "personal description"
