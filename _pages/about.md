@@ -19,4 +19,4 @@ Research Interests
 ------
 My research interests mainly include reinforcement learning and unsupervised learning.
 
-Currently, I am working on safe reinforcement learning on the system-level.
+Currently, I am working on reinforcement learning on the safety-critical systems.
