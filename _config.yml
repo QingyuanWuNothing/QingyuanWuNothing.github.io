@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Qingyuan Wu"
   avatar           : "profile.png"
-  bio              : "First-year Ph.D. student in University of Liverpool"
-  location         : "Liverpool, UK"
+  bio              : "Ph.D. student in University of Liverpool"
+  location         : "Liverpool, England"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=CYfMzb8AAAAJ&hl=zh-CN"
@@ -99,7 +99,7 @@ author:
   github           : "QingyuanWuNothing"
   google_plus      :
   keybase          :
-  instagram        : "qingyuanwu3"
+  instagram        : #"qingyuanwu3"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BpvDo24Y9RU6hJuP6X9%2BrIg%3D%3D"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "QingyuanWu4Work"
+  twitter          : #"QingyuanWu4Work"
   vine             :
   weibo            :
   xing             :
