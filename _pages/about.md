@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 **My research interests live in the field of Reinforcement Learning.**
-
-## About me
 I am currently a first-year PhD student at the Department of Computer Science at the University of Liverpool, advised by [Prof. Chao Huang](https://chaohuang2018.github.io/). 
 
 From April 2022 to September 2023, I experienced a period of memorable working time in the P2 team of [Parametrix.AI](https://chaocanshu.cn/index-en.html).
@@ -31,7 +29,7 @@ Before that, I also received my B.S. in Mathmatics at the Nanjing University of 
 
 
 ## Publications
-If you are interested in my works, please also check my wonderful coauthors' works too which definitely do not let you down.
+**If you are interested in my works, please also check my wonderful coauthors' works too which definitely do not let you down.**
 
 * [ICML 2024] Qingyuan Wu, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. <u>Boosting Long-Delayed Reinforcement Learning with Auxiliary Short-Delayed Task.</u> [[paper](https://arxiv.org/pdf/2402.03141)]
 
