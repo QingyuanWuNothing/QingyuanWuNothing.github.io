@@ -46,7 +46,7 @@ I am always available for opportunities for internships and visiting scholarship
 * [Preprint] Jiayu Yao, **Qingyuan Wu**, Quan Feng, Songcan Chen. <u>Learning Downstream Task by Selectively Capturing Complementary Knowledge from Multiple Self-supervisedly Learning Pretexts.</u> [[paper](https://arxiv.org/pdf/2204.05248)]
 
 
-* [Preprint] **Qingyuan Wu**, Yixuan Wang. <u>Expected-Max Ensembled Q-learning with Temporally-Varying Exploration.</u> [[paper](https://www.researchgate.net/profile/Qingyuan-Wu-5/publication/355356383_Expected-Max_Ensembled_Q-learning_with_Temporally-Varying_Exploration/links/616b8eb1b90c51266254f3d2/Expected-Max-Ensembled-Q-learning-with-Temporally-Varying-Exploration.pdf)]
+* [Preprint] **Qingyuan Wu**, Yuhui Wang. <u>Expected-Max Ensembled Q-learning with Temporally-Varying Exploration.</u> [[paper](https://www.researchgate.net/profile/Qingyuan-Wu-5/publication/355356383_Expected-Max_Ensembled_Q-learning_with_Temporally-Varying_Exploration/links/616b8eb1b90c51266254f3d2/Expected-Max-Ensembled-Q-learning-with-Temporally-Varying-Exploration.pdf)]
 
 
 * [Preprint] Yuhui Wang, **Qingyuan Wu**, Pengcheng He, Xiaoyang Tan. <u>Greedy-Step Off-Policy Reinforcement Learning.</u> [[paper](https://arxiv.org/pdf/2102.11717)]
