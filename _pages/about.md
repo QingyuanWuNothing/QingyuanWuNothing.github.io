@@ -23,11 +23,11 @@ I am always available for opportunities for internships and visiting students re
 
 ## Recent News
 
-* [05/2024] Our paper "Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays" was accepted by ICML 2024. 
+* [05/2024] Our paper "Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays" has been accepted by ICML 2024. 
 
-* [05/2024] Our paper "Highway Value Iteration Network" led by Yuhui was accepted by ICML 2024. 
+* [05/2024] Our paper "Highway Value Iteration Network" **led by Yuhui** has been accepted by ICML 2024. 
 
-* [03/2024] Our paper "State-Wise Safe Reinforcement Learning with Pixel Observations" led by Simon was accepted by L4DC 2024. 
+* [03/2024] Our paper "State-Wise Safe Reinforcement Learning with Pixel Observations" **led by Simon** has been accepted by L4DC 2024. 
 
 * [09/2023] After saying goodbye to my amazing colleagues in Parametrix.AI, I start my PhD journey at the University of Liverpool.
 
