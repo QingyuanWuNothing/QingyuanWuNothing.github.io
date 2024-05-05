@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ## About Me
-**My research interests live in the field of Reinforcement Learning.**
+**My research interests always live in the field of Reinforcement Learning.**
 
-I am always available for opportunities for internships and visiting students related to Reinforcement Learning, please drop me an email if you are interested.
+I am always available for opportunities for internships and visiting students related to Reinforcement Learning, please drop me an email if you are interested after review my [CV](https://www.overleaf.com/read/nvmyzdtrzzny#21e99a) :)
 
 * I am currently a first-year PhD student at the Department of Computer Science at the University of Liverpool, advised by [Prof. Chao Huang](https://chaohuang2018.github.io/). 
 
