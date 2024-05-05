@@ -10,19 +10,20 @@ redirect_from:
 
 ## About Me
 **My research interests live in the field of Reinforcement Learning.**
-I am currently a first-year PhD student at the Department of Computer Science at the University of Liverpool, advised by [Prof. Chao Huang](https://chaohuang2018.github.io/). 
 
-From April 2022 to September 2023, I experienced a period of memorable working time in the P2 team of [Parametrix.AI](https://chaocanshu.cn/index-en.html).
+* I am currently a first-year PhD student at the Department of Computer Science at the University of Liverpool, advised by [Prof. Chao Huang](https://chaohuang2018.github.io/). 
 
-Prior to the industrial experience, I earned my M.S. in Computer Science at the Nanjing University of Aeronautics and Astronautics in 2022, supervised by [Prof. Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/).
+* From April 2022 to September 2023, I experienced a period of memorable working time in the P2 team of [Parametrix.AI](https://chaocanshu.cn/index-en.html).
 
-Before that, I also received my B.S. in Mathmatics at the Nanjing University of Aeronautics and Astronautics in 2019.
+* Prior to the industrial experience, I earned my M.S. in Computer Science at the Nanjing University of Aeronautics and Astronautics in 2022, supervised by [Prof. Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/).
+
+* Before that, I also received my B.S. in Mathmatics at the Nanjing University of Aeronautics and Astronautics in 2019.
 
 ## Recent News
 
 * [05/2024] Our paper "Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays" was accepted by ICML 2024. 
 
-* [05/2024] Our paper "Highway Value Iteration" led by Yuhui was accepted by ICML 2024. 
+* [05/2024] Our paper "Highway Value Iteration Network" led by Yuhui was accepted by ICML 2024. 
 
 * [03/2024] Our paper "State-Wise Safe Reinforcement Learning with Pixel Observations" led by Simon was accepted by L4DC 2024. 
 
@@ -30,11 +31,11 @@ Before that, I also received my B.S. in Mathmatics at the Nanjing University of 
 
 
 ## Publications
-**If you are interested in my works, please also check my wonderful coauthors' works too which definitely do not let you down.**
+**If you are interested in my works, please also check my wonderful coauthors' works too which definitely do not let you down :)**
 
 * [ICML 2024] Qingyuan Wu, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. <u>Boosting Long-Delayed Reinforcement Learning with Auxiliary Short-Delayed Task.</u> [[paper](https://arxiv.org/pdf/2402.03141)]
 
-* [ICML 2024] Yuhui Wang, Weida Li, Francesco Faccio, Qingyuan Wu, Jürgen Schmidhuber. <u>Highway Value Iteration.</u> [TBD]
+* [ICML 2024] Yuhui Wang, Weida Li, Francesco Faccio, Qingyuan Wu, Jürgen Schmidhuber. <u>Highway Value Iteration Network.</u> [TBD]
 
 * [L4DC 2024] Simon Sinong Zhan, Yixuan Wang, Qingyuan Wu, Ruochen Jiao, Chao Huang, Qi Zhu. <u>State-wise safe reinforcement learning with pixel observations.</u> [[paper](https://arxiv.org/abs/2311.02227)] [[code](https://github.com/SimonZhan-code/Step-Wise_SafeRL_Pixel)]
 
