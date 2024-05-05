@@ -1,6 +1,14 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 **My research interests live in the field of Reinforcement Learning.**
-
-
 
 ## About me
 I am currently a first-year PhD student at the Department of Computer Science at the University of Liverpool, advised by [Prof. Chao Huang](https://chaohuang2018.github.io/). 
