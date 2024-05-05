@@ -11,7 +11,7 @@ redirect_from:
 ## About Me
 **My research interests always live in the field of Reinforcement Learning.**
 
-I am always available for opportunities for internships and visiting scholarships related to Reinforcement Learning, please drop me an email if you are interested after review my [CV](https://www.overleaf.com/read/nvmyzdtrzzny#21e99a).
+I am always available for internships or visiting scholarships related to Reinforcement Learning, please drop me an email if you are interested after reviewing my [CV](https://www.overleaf.com/read/nvmyzdtrzzny#21e99a).
 
 * I am currently a first-year PhD student at the Department of Computer Science at the University of Liverpool, advised by [Prof. Chao Huang](https://chaohuang2018.github.io/). 
 
@@ -33,9 +33,9 @@ I am always available for opportunities for internships and visiting scholarship
 
 
 ## Publications
-**If you are interested in my works, please also check my brilliant coauthors' solid works which definitely bring you interesting insights! CHEERS!**
+**If you are interested in our works, please also review my brilliant coauthors' interesting works! CHEERS!**
 
-* [ICML 2024] **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. <u>Boosting Long-Delayed Reinforcement Learning with Auxiliary Short-Delayed Task.</u> [[paper](https://arxiv.org/pdf/2402.03141)]
+* [ICML 2024] **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. <u>Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays.</u> [[paper](https://arxiv.org/pdf/2402.03141)]
 
 * [ICML 2024] Yuhui Wang, Weida Li, Francesco Faccio, **Qingyuan Wu**, Jürgen Schmidhuber. <u>Highway Value Iteration Network.</u> [TBD]
 
