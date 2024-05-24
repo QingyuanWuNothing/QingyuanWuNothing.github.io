@@ -11,15 +11,17 @@ redirect_from:
 ## About Me
 **My research interests always live in the field of Reinforcement Learning.**
 
-I am always available for internships or visiting scholarships related to Reinforcement Learning, please drop me an email if you are interested after reviewing my [CV](https://www.overleaf.com/read/nvmyzdtrzzny#21e99a).
+I am always available for internships or visiting scholarships related to **Reinforcement Learning**, please drop me an email if you are interested after reviewing my [CV](https://www.overleaf.com/read/nvmyzdtrzzny#21e99a).
+
+## Brief Bio
 
 * I am currently a first-year PhD student at the Department of Computer Science at the University of Liverpool, advised by [Prof. Chao Huang](https://chaohuang2018.github.io/). 
 
 * From April 2022 to September 2023, I experienced a period of memorable working time in the P2 team of [Parametrix.AI](https://chaocanshu.cn/index-en.html).
 
-* Prior to the industrial experience, I earned my M.S. in Computer Science at the Nanjing University of Aeronautics and Astronautics in 2022, supervised by [Prof. Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/).
+* Prior to the industrial experience, I earned my MEng in Computer Science at the Nanjing University of Aeronautics and Astronautics in 2022, supervised by [Prof. Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/).
 
-* Before that, I also received my B.S. in Mathmatics at the Nanjing University of Aeronautics and Astronautics in 2019.
+* Before that, I also received my BS in Mathmatics at the Nanjing University of Aeronautics and Astronautics in 2019.
 
 ## Recent News
 
@@ -48,7 +50,7 @@ I am always available for internships or visiting scholarships related to Reinfo
 
 
 
-## Rejected yet Interesting Works
+## Rejected but Interesting Works :(
 
 * Yuhui Wang, Haozhe Liu, Miroslav Strupl, Francesco Faccio, **Qingyuan Wu**, Xiaoyang Tan, Jürgen Schmidhuber. <u>Highway reinforcement learning.</u> [[paper](https://openreview.net/pdf?id=NFcRC4aYSWf)]
 
@@ -58,3 +60,12 @@ I am always available for internships or visiting scholarships related to Reinfo
 
 
 * Yuhui Wang, **Qingyuan Wu**, Pengcheng He, Xiaoyang Tan. <u>Greedy-Step Off-Policy Reinforcement Learning.</u> [[paper](https://arxiv.org/pdf/2102.11717)]
+
+
+
+## Links
+
+* [Reinforcement Learnin: An introduction](http://incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton and Andrew G. Barto.
+
+
+* [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) by Richard S. Sutton.
