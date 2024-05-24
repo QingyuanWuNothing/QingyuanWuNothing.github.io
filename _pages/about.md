@@ -31,13 +31,14 @@ I am always available for internships or visiting scholarships related to Reinfo
 
 * [09/2023] After saying goodbye to my amazing colleagues in Parametrix.AI, I start my PhD journey at the University of Liverpool.
 
+**If you are interested in our works, please also review my brilliant coauthors' works. CHEERS!**
+
 ## Pre-prints
 * [Under Review] **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Chao Huang. <u>Variational Delayed Policy Optimization.</u> [[paper](https://arxiv.org/pdf/2405.14226)]
 
 
 
-## Selected Publications
-**If you are interested in our works, please also review my brilliant coauthors' interesting works! CHEERS!**
+## Publications
 
 * [ICML 2024] **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. <u>Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays.</u> [[paper](https://arxiv.org/pdf/2402.03141), [code](https://github.com/QingyuanWuNothing/AD-RL)]
 
