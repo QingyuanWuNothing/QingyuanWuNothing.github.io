@@ -31,24 +31,29 @@ I am always available for internships or visiting scholarships related to Reinfo
 
 * [09/2023] After saying goodbye to my amazing colleagues in Parametrix.AI, I start my PhD journey at the University of Liverpool.
 
+## Pre-prints
+* [Under Review] **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Chao Huang. <u>Variational Delayed Policy Optimization.</u> [[paper](https://arxiv.org/pdf/2405.14226)]
 
-## Publications
+
+
+## Selected Publications
 **If you are interested in our works, please also review my brilliant coauthors' interesting works! CHEERS!**
 
-* [ICML 2024] **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. <u>Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays.</u> [[paper](https://arxiv.org/pdf/2402.03141)]
+* [ICML 2024] **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. <u>Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays.</u> [[paper](https://arxiv.org/pdf/2402.03141), [code](https://github.com/QingyuanWuNothing/AD-RL)]
 
 * [ICML 2024] Yuhui Wang, Weida Li, Francesco Faccio, **Qingyuan Wu**, Jürgen Schmidhuber. <u>Highway Value Iteration Network.</u> [TBD]
 
-* [L4DC 2024] Simon Sinong Zhan, Yixuan Wang, **Qingyuan Wu**, Ruochen Jiao, Chao Huang, Qi Zhu. <u>State-wise safe reinforcement learning with pixel observations.</u> [[paper](https://arxiv.org/abs/2311.02227)] [[code](https://github.com/SimonZhan-code/Step-Wise_SafeRL_Pixel)]
-
-* [Preprint] Yuhui Wang, Haozhe Liu, Miroslav Strupl, Francesco Faccio, **Qingyuan Wu**, Xiaoyang Tan, Jürgen Schmidhuber. <u>Highway reinforcement learning.</u> [[paper](https://openreview.net/pdf?id=NFcRC4aYSWf)]
-
-* [Preprint] Jiayu Yao, **Qingyuan Wu**, Quan Feng, Songcan Chen. <u>Learning Downstream Task by Selectively Capturing Complementary Knowledge from Multiple Self-supervisedly Learning Pretexts.</u> [[paper](https://arxiv.org/pdf/2204.05248)]
+* [L4DC 2024] Simon Sinong Zhan, Yixuan Wang, **Qingyuan Wu**, Ruochen Jiao, Chao Huang, Qi Zhu. <u>State-wise safe reinforcement learning with pixel observations.</u> [[paper](https://arxiv.org/abs/2311.02227), [code](https://github.com/SimonZhan-code/Step-Wise_SafeRL_Pixel)]
 
 
-* [Preprint] **Qingyuan Wu**, Yuhui Wang. <u>Expected-Max Ensembled Q-learning with Temporally-Varying Exploration.</u> [[paper](https://www.researchgate.net/profile/Qingyuan-Wu-5/publication/355356383_Expected-Max_Ensembled_Q-learning_with_Temporally-Varying_Exploration/links/616b8eb1b90c51266254f3d2/Expected-Max-Ensembled-Q-learning-with-Temporally-Varying-Exploration.pdf)]
+
+## Rejected yet Interesting Works
+
+* Yuhui Wang, Haozhe Liu, Miroslav Strupl, Francesco Faccio, **Qingyuan Wu**, Xiaoyang Tan, Jürgen Schmidhuber. <u>Highway reinforcement learning.</u> [[paper](https://openreview.net/pdf?id=NFcRC4aYSWf)]
+
+* Jiayu Yao, **Qingyuan Wu**, Quan Feng, Songcan Chen. <u>Learning Downstream Task by Selectively Capturing Complementary Knowledge from Multiple Self-supervisedly Learning Pretexts.</u> [[paper](https://arxiv.org/pdf/2204.05248)]
+
+* **Qingyuan Wu**, Yuhui Wang. <u>Expected-Max Ensembled Q-learning with Temporally-Varying Exploration.</u> [[paper](https://www.researchgate.net/profile/Qingyuan-Wu-5/publication/355356383_Expected-Max_Ensembled_Q-learning_with_Temporally-Varying_Exploration/links/616b8eb1b90c51266254f3d2/Expected-Max-Ensembled-Q-learning-with-Temporally-Varying-Exploration.pdf)]
 
 
-* [Preprint] Yuhui Wang, **Qingyuan Wu**, Pengcheng He, Xiaoyang Tan. <u>Greedy-Step Off-Policy Reinforcement Learning.</u> [[paper](https://arxiv.org/pdf/2102.11717)]
-
-
+* Yuhui Wang, **Qingyuan Wu**, Pengcheng He, Xiaoyang Tan. <u>Greedy-Step Off-Policy Reinforcement Learning.</u> [[paper](https://arxiv.org/pdf/2102.11717)]
