@@ -11,9 +11,9 @@ redirect_from:
 ## About Me
 **My research interests always live in the field of Reinforcement Learning.**
 
-I am always available for internships or visiting scholarships related to **Reinforcement Learning**, please drop me an email if you are interested after reviewing my [CV](https://www.overleaf.com/read/nvmyzdtrzzny#21e99a).
+I am always available for internships or visiting students related to **Reinforcement Learning**, please drop me an email if you are interested after reviewing my [CV](https://www.overleaf.com/read/nvmyzdtrzzny#21e99a).
 
-## Brief Bio
+## Brief Introduction
 
 * I am currently a first-year PhD student at the Department of Computer Science at the University of Liverpool, advised by [Prof. Chao Huang](https://chaohuang2018.github.io/). 
 
@@ -25,13 +25,13 @@ I am always available for internships or visiting scholarships related to **Rein
 
 ## Recent News
 
-* [05/2024] Our paper "Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays" has been accepted by ICML 2024. 
+* [05/2024] Our paper "Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays" has been accepted by International Conference on Machine Learning (ICML 2024). 
 
-* [05/2024] Our paper "Highway Value Iteration Networks" **led by Yuhui** has been accepted by ICML 2024. 
+* [05/2024] Our paper "Highway Value Iteration Networks" **led by Yuhui** has been accepted by International Conference on Machine Learning (ICML 2024). 
 
-* [03/2024] Our paper "State-Wise Safe Reinforcement Learning with Pixel Observations" **led by Simon** has been accepted by L4DC 2024. 
+* [03/2024] Our paper "State-Wise Safe Reinforcement Learning with Pixel Observations" **led by Simon** has been accepted by Learning for Dynamics and Control Conference (L4DC 2024). 
 
-* [09/2023] After saying goodbye to my amazing colleagues in Parametrix.AI, I start my PhD journey at the University of Liverpool.
+* [09/2023] Leaving Parametrix.AI, I start my PhD journey in the UK.
 
 <!-- **If you are interested in our works, please also review my brilliant coauthors' works. CHEERS!** -->
 
