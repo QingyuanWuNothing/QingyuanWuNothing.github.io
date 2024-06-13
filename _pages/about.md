@@ -51,7 +51,9 @@ I am always available for internships or visiting students related to **Reinforc
 
 ## Pre-prints
 
-* [Under Review] **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Chao Huang. <u>Variational Delayed Policy Optimization.</u> [[paper](https://arxiv.org/pdf/2405.14226)]
+* [Preprint] **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Chao Huang. <u>Variational Delayed Policy Optimization.</u> [[paper](https://arxiv.org/pdf/2405.14226)]
+
+* [Preprint] Yuhui Wang, **Qingyuan Wu**, Weida Li, Dylan R. Ashley, Francesco Faccio, Chao Huang, Jürgen Schmidhuber. <u>Scaling Value Iteration Networks to 5000 Layers for Extreme Long-Term Planning.</u> [[paper](https://arxiv.org/abs/2406.08404v1)]
 
 * [Preprint] Yuhui Wang, Miroslav Strupl, Francesco Faccio, **Qingyuan Wu**, Haozhe Liu, Michał Grudzień, Xiaoyang Tan, Jürgen Schmidhuber. <u>Highway reinforcement learning.</u> [[paper](https://arxiv.org/abs/2405.18289)]
 
