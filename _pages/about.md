@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ## About Me
-**My research interests always live in the field of Reinforcement Learning.**
+**My research interests include Reinforcement Learning, Machine Learning and Capybara.**
 
-I am always available for internships or visiting students related to **Reinforcement Learning**, please drop me an email if you are interested after reviewing my [CV](https://www.overleaf.com/read/nvmyzdtrzzny#21e99a).
+I am available for ~~internships~~ or visiting students related to **Reinforcement Learning**, please drop me an email if you are interested after reviewing my [CV](https://drive.google.com/file/d/1B2gotM1M8exy-Cg2-Rj0mjlq07ZwkZQN/view?usp=sharing).
 
 ## Brief Introduction
 
@@ -41,7 +41,7 @@ I am always available for internships or visiting students related to **Reinforc
 
 ## Publications
 
-* [ICML 2024] **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. <u>Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays.</u> [[paper](https://arxiv.org/pdf/2402.03141), [code](https://github.com/QingyuanWuNothing/AD-RL)]
+* [ICML 2024] **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. <u>Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays.</u> [[paper](https://arxiv.org/pdf/2402.03141), [code](https://github.com/QingyuanWuNothing/AD-RL), [poster](https://drive.google.com/file/d/1mxBSyF6xri_g815AoVjgmBOvMOqGxmNm/view?usp=sharing)]
 
 * [ICML 2024] Yuhui Wang, Weida Li, Francesco Faccio, **Qingyuan Wu**, Jürgen Schmidhuber. <u>Highway Value Iteration Networks.</u> [[paper](https://arxiv.org/abs/2406.03485)]
 
