@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+## About Me [[CV](https://drive.google.com/file/d/1B2gotM1M8exy-Cg2-Rj0mjlq07ZwkZQN/view?usp=sharing)]
 **My research interests include Reinforcement Learning, Machine Learning and Capybara.**
 
-I am available for ~~internships~~ or visiting students related to **Reinforcement Learning**, please drop me an email if you are interested after reviewing my [CV](https://drive.google.com/file/d/1B2gotM1M8exy-Cg2-Rj0mjlq07ZwkZQN/view?usp=sharing).
+I am available for ~~internships~~ or visiting students related to **Reinforcement Learning**, please drop me an email if you are interested.
 
 ## Brief Introduction
 
-* I am currently a first-year PhD student at the Department of Computer Science at the University of Liverpool, advised by [Prof. Chao Huang](https://chaohuang2018.github.io/). 
+* I am currently a first-year PhD student at the Department of Computer Science at the University of Liverpool, advised by [Prof. Chao Huang](https://scholar.google.com/citations?user=GbY72eIAAAAJ&hl=en). 
 
 * From April 2022 to September 2023, I experienced a period of memorable working time in the P2 team of [Parametrix.AI](https://chaocanshu.cn/index-en.html).
 
-* Prior to the industrial experience, I earned my MEng in Computer Science at the Nanjing University of Aeronautics and Astronautics in 2022, supervised by [Prof. Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/).
+* Prior to the industrial experience, I earned my MEng in Computer Science at the Nanjing University of Aeronautics and Astronautics in 2022, supervised by [Prof. Xiaoyang Tan](https://scholar.google.com/citations?user=rHMtSOYAAAAJ&hl=zh-CN).
 
 * Before that, I also received my BS in Mathmatics at the Nanjing University of Aeronautics and Astronautics in 2019.
 
@@ -66,7 +66,7 @@ I am available for ~~internships~~ or visiting students related to **Reinforceme
 
 
 
-## Links
+## Useful Links
 
 * [Reinforcement Learnin: An introduction](http://incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton and Andrew G. Barto.
 
