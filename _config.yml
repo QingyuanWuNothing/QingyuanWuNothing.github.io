@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qingyuan Wu 吴卿源"
+  name             : "Qingyuan Wu"
   avatar           : "capybara.jpg"
-  bio              : "Ph.D student in University of Liverpool"
+  bio              : "PhD student"
   location         : "Liverpool, England"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

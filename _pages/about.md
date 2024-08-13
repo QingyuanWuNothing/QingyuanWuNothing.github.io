@@ -11,17 +11,17 @@ redirect_from:
 ## About Me [[CV](https://drive.google.com/file/d/1B2gotM1M8exy-Cg2-Rj0mjlq07ZwkZQN/view?usp=sharing)]
 **My research interests include Reinforcement Learning, Machine Learning and Capybara.**
 
-I am available for ~~internships~~ or visiting students related to **Reinforcement Learning**, please drop me an email if you are interested.
+<!-- I am available for ~~internships~~ or visiting students related to **Reinforcement Learning**, please drop me an email if you are interested. -->
 
 ## Brief Introduction
 
-* I am currently a first-year PhD student at the Department of Computer Science at the University of Liverpool, advised by [Prof. Chao Huang](https://scholar.google.com/citations?user=GbY72eIAAAAJ&hl=en). 
+* [09/2023 - now] PhD student majoring in Computer Science at the University of Liverpool, advised by [Prof. Chao Huang](https://scholar.google.com/citations?user=GbY72eIAAAAJ&hl=en). 
 
-* From April 2022 to September 2023, I experienced a period of memorable working time in the P2 team of [Parametrix.AI](https://chaocanshu.cn/index-en.html).
+* [04/2022 - 09/2023] Reinforcement Learning and Gaming AI Researcher working in the P2 team of [Parametrix.AI](https://chaocanshu.cn/index-en.html).
 
-* Prior to the industrial experience, I earned my MEng in Computer Science at the Nanjing University of Aeronautics and Astronautics in 2022, supervised by [Prof. Xiaoyang Tan](https://scholar.google.com/citations?user=rHMtSOYAAAAJ&hl=zh-CN).
+* [09/2019 - 04/2022] MS Student majoring in Computer Science at the Nanjing University of Aeronautics and Astronautics, supervised by [Prof. Xiaoyang Tan](https://scholar.google.com/citations?user=rHMtSOYAAAAJ&hl=zh-CN).
 
-* Before that, I also received my BS in Mathmatics at the Nanjing University of Aeronautics and Astronautics in 2019.
+* [09/2015 - 06/2019] Undergrad Student majoring in Mathematics at the Nanjing University of Aeronautics and Astronautics.
 
 <!-- ## Recent News
 
@@ -80,7 +80,10 @@ I am available for ~~internships~~ or visiting students related to **Reinforceme
 <br/> [Paper](https://www.researchgate.net/profile/Qingyuan-Wu-5/publication/355356383_Expected-Max_Ensembled_Q-learning_with_Temporally-Varying_Exploration/links/616b8eb1b90c51266254f3d2/Expected-Max-Ensembled-Q-learning-with-Temporally-Varying-Exploration.pdf)
 
 
-<!-- * Yuhui Wang, **Qingyuan Wu**, Pengcheng He, Xiaoyang Tan. <u>Greedy-Step Off-Policy Reinforcement Learning.</u> [[paper](https://arxiv.org/pdf/2102.11717)] -->
+
+* **Greedy-Step Off-Policy Reinforcement Learning.**
+<br/> Yuhui Wang, **Qingyuan Wu**, Pengcheng He, Xiaoyang Tan. 
+<br/> [Paper](https://arxiv.org/pdf/2102.11717)
 
 
 <!-- 
