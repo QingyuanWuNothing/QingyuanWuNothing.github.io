@@ -15,7 +15,9 @@ redirect_from:
 
 ## Brief Introduction
 
-* [09/2023 - now] PhD student majoring in Computer Science at the University of Liverpool, advised by [Prof. Chao Huang](https://scholar.google.com/citations?user=GbY72eIAAAAJ&hl=en). 
+* [09/2024 - now] PhD student majoring in Computer Science at the University of Southampton (transfer from Liverpool), advised by [Prof. Chao Huang](https://scholar.google.com/citations?user=GbY72eIAAAAJ&hl=en). 
+
+* [09/2023 - 09/2024] PhD student majoring in Computer Science at the University of Liverpool (transfer to Southampton). 
 
 * [04/2022 - 09/2023] Reinforcement Learning and Gaming AI Researcher working in the P2 team of [Parametrix.AI](https://chaocanshu.cn/index-en.html).
 
@@ -41,6 +43,11 @@ redirect_from:
 
 ## Publications
 
+* **Variational Delayed Policy Optimization.**
+<br/> **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Chao Huang.
+<br/> Conference on Neural Information Processing Systems, 2024, Spotlight.
+<br/> [Paper](https://arxiv.org/pdf/2405.14226)
+
 * **Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays.**
 <br/> **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. 
 <br/> International Conference on Machine Learning, 2024.
@@ -60,10 +67,6 @@ redirect_from:
 
 
 ## Pre-prints
-* **Variational Delayed Policy Optimization.**
-<br/> **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Chao Huang.
-<br/> [Paper](https://arxiv.org/pdf/2405.14226)
-
 
 * **Scaling Value Iteration Networks to 5000 Layers for Extreme Long-Term Planning.**
 <br/> Yuhui Wang, **Qingyuan Wu**, Weida Li, Dylan R. Ashley, Francesco Faccio, Chao Huang, Jürgen Schmidhuber.
