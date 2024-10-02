@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-## About Me [[CV](https://drive.google.com/file/d/1B2gotM1M8exy-Cg2-Rj0mjlq07ZwkZQN/view?usp=sharing)]
+## [[Resume](https://drive.google.com/file/d/1B2gotM1M8exy-Cg2-Rj0mjlq07ZwkZQN/view?usp=sharing)]
 **My research interests include Reinforcement Learning, Machine Learning and Capybara.**
 
 <!-- I am available for ~~internships~~ or visiting students related to **Reinforcement Learning**, please drop me an email if you are interested. -->
 
-## Brief Introduction
+## Introduction
 
 * [09/2024 - now] PhD student majoring in Computer Science at the University of Southampton (transfer from Liverpool), advised by [Prof. Chao Huang](https://scholar.google.com/citations?user=GbY72eIAAAAJ&hl=en). 
 
