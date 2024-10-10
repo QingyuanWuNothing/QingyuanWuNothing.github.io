@@ -46,7 +46,7 @@ redirect_from:
 * **Variational Delayed Policy Optimization.**
 <br/> **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Chao Huang.
 <br/> Conference on Neural Information Processing Systems, 2024, Spotlight.
-<br/> [Paper](https://arxiv.org/pdf/2405.14226)
+<br/> [Paper](https://arxiv.org/pdf/2405.14226) / [Code](https://github.com/QingyuanWuNothing/Variational-Delayed-Policy-Optimization)
 
 * **Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays.**
 <br/> **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. 
@@ -67,6 +67,11 @@ redirect_from:
 
 
 ## Pre-prints
+
+* **Model-based Reward Shaping for Adversial Inverse Reinforcement Learning in Stochastic Environments.**
+<br/> Simon Sinong Zhan, **Qingyuan Wu**, Philip Wang, Yixuan Wang, Ruochen Jiao, Chao Huang, Qi Zhu.
+<br/> [Paper](https://arxiv.org/abs/2410.03847)
+
 
 * **Scaling Value Iteration Networks to 5000 Layers for Extreme Long-Term Planning.**
 <br/> Yuhui Wang, **Qingyuan Wu**, Weida Li, Dylan R. Ashley, Francesco Faccio, Chao Huang, Jürgen Schmidhuber.
