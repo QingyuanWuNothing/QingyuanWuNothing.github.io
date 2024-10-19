@@ -13,7 +13,7 @@ redirect_from:
 
 <!-- I am available for ~~internships~~ or visiting students related to **Reinforcement Learning**, please drop me an email if you are interested. -->
 
-## Introduction
+## Experience
 
 * [09/2024 - now] PhD student majoring in Computer Science at the University of Southampton (transfer from Liverpool), advised by [Prof. Chao Huang](https://scholar.google.com/citations?user=GbY72eIAAAAJ&hl=en). 
 
@@ -50,18 +50,18 @@ redirect_from:
 
 * **Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays.**
 <br/> **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. 
-<br/> International Conference on Machine Learning, 2024.
+<br/> International Conference on Machine Learning, 2024, Poster.
 <br/> [Paper](https://arxiv.org/pdf/2402.03141) / [Code](https://github.com/QingyuanWuNothing/AD-RL) / 
 [Poster](https://drive.google.com/file/d/1mxBSyF6xri_g815AoVjgmBOvMOqGxmNm/view?usp=sharing)
 
 * **Highway Value Iteration Networks.**
 <br/> Yuhui Wang, Weida Li, Francesco Faccio, **Qingyuan Wu**, Jürgen Schmidhuber. 
-<br/> International Conference on Machine Learning, 2024.
+<br/> International Conference on Machine Learning, 2024, Poster.
 <br/> [Paper](https://arxiv.org/abs/2406.03485)
 
 * **State-wise safe reinforcement learning with pixel observations.**
 <br/> Simon Sinong Zhan, Yixuan Wang, **Qingyuan Wu**, Ruochen Jiao, Chao Huang, Qi Zhu.
-<br/> Learning for Dynamics and Control Conference, 2024.
+<br/> Learning for Dynamics and Control Conference, 2024, Poster.
 <br/> [Paper](https://arxiv.org/abs/2311.02227) / [Code](https://github.com/SimonZhan-code/Step-Wise_SafeRL_Pixel)
 
 
