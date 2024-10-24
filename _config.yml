@@ -86,7 +86,7 @@ author:
   location         : "Southampton, England"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=CYfMzb8AAAAJ&hl=zh-CN"
+  googlescholar    : https://scholar.google.com/citations?user=CYfMzb8AAAAJ&hl=en"
   email            : "qingyuanwu4work@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
