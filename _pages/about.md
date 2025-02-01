@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## [[Resume](https://drive.google.com/file/d/1B2gotM1M8exy-Cg2-Rj0mjlq07ZwkZQN/view?usp=sharing)]
+## [[Resume](https://github.com/QingyuanWuNothing/Qingyuan-s-Resume/blob/main/output.pdf)]
 **My research interests include Reinforcement Learning, Machine Learning and Capybara.**
 
 <!-- I am available for ~~internships~~ or visiting students related to **Reinforcement Learning**, please drop me an email if you are interested. -->
@@ -67,6 +67,10 @@ redirect_from:
 
 
 ## Pre-prints
+
+* **Inverse Delayed Reinforcement Learning.**
+<br/> Simon Sinong Zhan, \textbf{Qingyuan Wu},  Zhian Ruan, Frank Yang, Philip Wang, Yixuan Wang, Ruochen Jiao, Chao Huang, Qi Zhu.
+<br/> [Paper](https://arxiv.org/abs/2412.02931)
 
 * **Model-based Reward Shaping for Adversial Inverse Reinforcement Learning in Stochastic Environments.**
 <br/> Simon Sinong Zhan, **Qingyuan Wu**, Philip Wang, Yixuan Wang, Ruochen Jiao, Chao Huang, Qi Zhu.
