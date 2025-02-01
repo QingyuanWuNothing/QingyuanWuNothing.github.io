@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## [[Resume](https://github.com/QingyuanWuNothing/Qingyuan-s-Resume/blob/main/output.pdf)]
+## [[Resume](https://github.com/QingyuanWuNothing/Qingyuan-s-Resume/blob/main/resume.pdf)]
 **My research interests include Reinforcement Learning, Machine Learning and Capybara.**
 
 <!-- I am available for ~~internships~~ or visiting students related to **Reinforcement Learning**, please drop me an email if you are interested. -->
