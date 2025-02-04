@@ -45,23 +45,23 @@ redirect_from:
 
 * **Variational Delayed Policy Optimization.**
 <br/> **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Chao Huang.
-<br/> Conference on Neural Information Processing Systems, 2024, Spotlight.
+<br/> [NeurIPS 2024], Conference on Neural Information Processing Systems, 2024, Spotlight.
 <br/> [Paper](https://arxiv.org/pdf/2405.14226) / [Code](https://github.com/QingyuanWuNothing/Variational-Delayed-Policy-Optimization)
 
 * **Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays.**
 <br/> **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. 
-<br/> International Conference on Machine Learning, 2024, Poster.
+<br/> [ICML 2024], International Conference on Machine Learning, 2024, Poster.
 <br/> [Paper](https://arxiv.org/pdf/2402.03141) / [Code](https://github.com/QingyuanWuNothing/AD-RL) / 
 [Poster](https://drive.google.com/file/d/1mxBSyF6xri_g815AoVjgmBOvMOqGxmNm/view?usp=sharing)
 
 * **Highway Value Iteration Networks.**
 <br/> Yuhui Wang, Weida Li, Francesco Faccio, **Qingyuan Wu**, Jürgen Schmidhuber. 
-<br/> International Conference on Machine Learning, 2024, Poster.
+<br/> [ICML 2024], International Conference on Machine Learning, 2024, Poster.
 <br/> [Paper](https://arxiv.org/abs/2406.03485)
 
 * **State-wise safe reinforcement learning with pixel observations.**
 <br/> Simon Sinong Zhan, Yixuan Wang, **Qingyuan Wu**, Ruochen Jiao, Chao Huang, Qi Zhu.
-<br/> Learning for Dynamics and Control Conference, 2024, Poster.
+<br/> [L4DC 2024], Learning for Dynamics and Control Conference, 2024, Poster.
 <br/> [Paper](https://arxiv.org/abs/2311.02227) / [Code](https://github.com/SimonZhan-code/Step-Wise_SafeRL_Pixel)
 
 
@@ -69,7 +69,7 @@ redirect_from:
 ## Pre-prints
 
 * **Inverse Delayed Reinforcement Learning.**
-<br/> Simon Sinong Zhan, \textbf{Qingyuan Wu},  Zhian Ruan, Frank Yang, Philip Wang, Yixuan Wang, Ruochen Jiao, Chao Huang, Qi Zhu.
+<br/> Simon Sinong Zhan, **Qingyuan Wu**,  Zhian Ruan, Frank Yang, Philip Wang, Yixuan Wang, Ruochen Jiao, Chao Huang, Qi Zhu.
 <br/> [Paper](https://arxiv.org/abs/2412.02931)
 
 * **Model-based Reward Shaping for Adversial Inverse Reinforcement Learning in Stochastic Environments.**
