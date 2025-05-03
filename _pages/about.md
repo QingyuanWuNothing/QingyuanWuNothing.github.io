@@ -19,7 +19,7 @@ redirect_from:
 
 * [09/2023 - 09/2024] PhD student majoring in Computer Science at the University of Liverpool. 
 
-* [04/2022 - 09/2023] Reinforcement Learning and Gaming AI Researcher working in the P2 team of [Parametrix.AI](https://chaocanshu.cn/index-en.html).
+* [04/2022 - 09/2023] Reinforcement Learning and Gaming AI Researcher working in the P2 team of [Parametrix.AI](https://chaocanshu.cn/).
 
 * [09/2019 - 04/2022] MS Student majoring in Computer Science at the Nanjing University of Aeronautics and Astronautics, supervised by [Prof. Xiaoyang Tan](https://scholar.google.com/citations?user=rHMtSOYAAAAJ&hl=zh-CN).
 
