@@ -46,7 +46,7 @@ redirect_from:
 * **Directly Forecasting Belief for Reinforcement Learning with Delays.**
 <br/> **Qingyuan Wu**, Yuhui Wang, Simon Sinong Zhan, Yixuan Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. 
 <br/> [ICML 2025] International Conference on Machine Learning, 2025, Poster.
-<br/> [Paper](https://arxiv.org/abs/2505.00546)
+<br/> [Paper](https://arxiv.org/abs/2505.00546) / [Code](https://github.com/QingyuanWuNothing/DFBT)
 
 * **Scaling Value Iteration Networks to 5000 Layers for Extreme Long-Term Planning.**
 <br/> Yuhui Wang, **Qingyuan Wu**, Weida Li, Dylan R. Ashley, Francesco Faccio, Chao Huang, Jürgen Schmidhuber.
@@ -80,7 +80,7 @@ redirect_from:
 
 * **VSC-RL: Advancing Autonomous Vision-Language Agents with Variational Subgoal-Conditioned Reinforcement Learning.**
 <br/> **Qingyuan Wu**, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao.
-<br/> [Paper](https://arxiv.org/abs/2502.07949)
+<br/> [Paper](https://arxiv.org/abs/2502.07949) / [Code](https://github.com/ai-agents-2030/VSC_RL)
 
 * **Inverse Delayed Reinforcement Learning.**
 <br/> Simon Sinong Zhan, **Qingyuan Wu**, Zhian Ruan, Frank Yang, Philip Wang, Yixuan Wang, Ruochen Jiao, Chao Huang, Qi Zhu.
