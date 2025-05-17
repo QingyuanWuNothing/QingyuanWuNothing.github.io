@@ -56,7 +56,7 @@ redirect_from:
 * **Variational Delayed Policy Optimization.**
 <br/> **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Chao Huang.
 <br/> [NeurIPS 2024] Conference on Neural Information Processing Systems, 2024, Spotlight.
-<br/> [Paper](https://arxiv.org/abs/2405.14226) / [Code](https://github.com/QingyuanWuNothing/Variational-Delayed-Policy-Optimization)
+<br/> [Paper](https://arxiv.org/abs/2405.14226) / [Code](https://github.com/QingyuanWuNothing/Variational-Delayed-Policy-Optimization) / [Poster](https://drive.google.com/file/d/1S6nV0pAb2pissPmHdm9Icv4BTPLBMNLX/view?usp=sharing)
 
 * **Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays.**
 <br/> **Qingyuan Wu**, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. 
