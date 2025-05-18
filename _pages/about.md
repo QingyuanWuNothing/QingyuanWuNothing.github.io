@@ -26,8 +26,6 @@ redirect_from:
 
 * [09/2015 - 06/2019] Undergrad Student majoring in Mathematics at the Nanjing University of Aeronautics and Astronautics.
 
-</span>
-
 <!-- ## Recent News
 
 * [05/2024] Our paper "Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays" has been accepted by International Conference on Machine Learning (ICML 2024). 
@@ -78,8 +76,6 @@ redirect_from:
 <br/> [L4DC 2024] Learning for Dynamics and Control Conference, 2024, Poster.
 <br/> [Paper](https://arxiv.org/abs/2311.02227) / [Code](https://github.com/SimonZhan-code/Step-Wise_SafeRL_Pixel)
 
-</span>
-
 
 ## Pre-prints
 
@@ -109,7 +105,6 @@ redirect_from:
 <br/> Yuhui Wang, **Qingyuan Wu**, Pengcheng He, Xiaoyang Tan. 
 <br/> [Paper](https://arxiv.org/abs/2102.11717)
 
-</span>
 
 <!-- 
 ## Useful Links
