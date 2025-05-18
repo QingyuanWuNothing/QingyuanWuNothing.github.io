@@ -14,6 +14,7 @@ redirect_from:
 <!-- I am available for ~~internships~~ or visiting students related to **Reinforcement Learning**, please drop me an email if you are interested. -->
 
 ## Experience
+<span style="font-size: smaller;">
 
 * [09/2024 - now] PhD student majoring in Computer Science at the University of Southampton, advised by [Prof. Chao Huang](https://scholar.google.com/citations?user=GbY72eIAAAAJ&hl=en). 
 
@@ -24,6 +25,8 @@ redirect_from:
 * [09/2019 - 04/2022] MS Student majoring in Computer Science at the Nanjing University of Aeronautics and Astronautics, supervised by [Prof. Xiaoyang Tan](https://scholar.google.com/citations?user=rHMtSOYAAAAJ&hl=en).
 
 * [09/2015 - 06/2019] Undergrad Student majoring in Mathematics at the Nanjing University of Aeronautics and Astronautics.
+
+</span>
 
 <!-- ## Recent News
 
@@ -42,6 +45,7 @@ redirect_from:
 
 
 ## Publications
+<span style="font-size: smaller;">
 
 * **Directly Forecasting Belief for Reinforcement Learning with Delays.**
 <br/> **Qingyuan Wu**, Yuhui Wang, Simon Sinong Zhan, Yixuan Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang. 
@@ -74,9 +78,12 @@ redirect_from:
 <br/> [L4DC 2024] Learning for Dynamics and Control Conference, 2024, Poster.
 <br/> [Paper](https://arxiv.org/abs/2311.02227) / [Code](https://github.com/SimonZhan-code/Step-Wise_SafeRL_Pixel)
 
+</span>
 
 
 ## Pre-prints
+
+<span style="font-size: smaller;">
 
 * **VSC-RL: Advancing Autonomous Vision-Language Agents with Variational Subgoal-Conditioned Reinforcement Learning.**
 <br/> **Qingyuan Wu**, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao.
@@ -102,6 +109,7 @@ redirect_from:
 <br/> Yuhui Wang, **Qingyuan Wu**, Pengcheng He, Xiaoyang Tan. 
 <br/> [Paper](https://arxiv.org/abs/2102.11717)
 
+</span>
 
 <!-- 
 ## Useful Links
